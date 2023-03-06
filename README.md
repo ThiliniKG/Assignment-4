@@ -1,1 +1,2 @@
-### This is a Repositary creted for Assignment-4 using Github.
+### This is a Repositary created for Assignment-4 using Github.
+### Added Assignment 1.
